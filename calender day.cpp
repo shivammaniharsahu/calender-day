@@ -69,7 +69,6 @@ int main()
 		}
 	}
 	odd2=((sum+dd)%7)-1;
-	cout<<odd2<<endl;
 	odd3=odd1+odd2;
 	cout<<odd3<<endl;
 	odd3=odd3%7;
